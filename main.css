@@ -7,11 +7,14 @@ body {
 
 h1 {
 	font-size: 48px;
-  font-family: Palatino, 'Palatino Linotype', serif;
+ 	font-family: Palatino, 'Palatino Linotype', serif;
+	color: red
+	
 }
 
 h2 {
 	font-size: 32px;
+	color: Chocolate
 }
 
 
@@ -26,5 +29,9 @@ p {
 }
 
 .main {
-  font-family: 'Trebuchet MS', Helvetica, sans-serif
+  	font-family: 'Trebuchet MS', Helvetica, sans-serif
+}
+
+	.container {
+   	text-align: left;
 }
