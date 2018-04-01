@@ -1,7 +1,7 @@
 body {
 	height: 100%;
 	margin: 0;
-	text-align: center;
+	text-align: left;
 	width: 100%;
 }
 
@@ -30,5 +30,4 @@ p {
 
 .main {
   	font-family: 'Trebuchet MS', Helvetica, sans-serif;
-	text-align: left;
 }
