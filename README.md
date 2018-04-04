@@ -9,9 +9,9 @@ As I was wondering through the uses and functions of Github,
 I found out that there is this Github page,  
 which is when I thought I can use this to create my own website.  
 So I started with:
-- Sololearn [Profile](https://www.sololearn.com/Profile/7293505)
+- Sololearn [my profile](https://www.sololearn.com/Profile/7293505)
 - Codecademy
-- FreeCodeCamp [Profile](https://www.freecodecamp.org/noelleon2001)  
+- FreeCodeCamp [my profile](https://www.freecodecamp.org/noelleon2001)  
 <br/>
 Then I tried to apply what I learn in this repositories,  
 which I was able learn by doing so.  
