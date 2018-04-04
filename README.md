@@ -1,6 +1,6 @@
 ## HTML Learning Progress
 
-**Started 25th March**
+**Started 25th March**  
 _Lately I have been interested in web programming, 
 so I started to learn html5 and css to enhance my skills in this area_  
 <br/>
